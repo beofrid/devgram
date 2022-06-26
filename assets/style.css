@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    background: #FAFAFA;
+    width: 100%;
+    min-width: 100vh;
+}
+
+section {
+    display: flex;
+    position: fixed;
+    inset: 0;
+    width: 935px;
+    height: 580px;
+    margin: auto;
+    margin-top: 6%;
+
+}
+
+.imgcont { 
+    width:380px;
+    height: 580px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+}
+
+.login_container {
+    background: #FFFFFF;;
+    height: 396px;
+    width: 350px;
+    margin: 0 0 0 40px;
+    border: 1pt solid #dbdbdb;
+}
+#icon {
+    display: flex;
+    inset: 0;
+    margin: auto;
+    margin-top: 13%;}
+
+.login_input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+    margin: 24px 0 0 0;
+    height:150px;
+    width: 350px;
+    padding: 15px 0 0 0;
+}
+
+input::-webkit-input-placeholder {
+    color: #acacac;}
+
+.input {
+    background-color: #FAFAFA;
+    font-weight: 100;
+    padding: 0 0 0 8px;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    height:35px;
+    width: 268px;
+    border: 1pt solid #dbdbdb;
+    border-radius: 4px;    
+}
+
+.button {
+    background: rgb(175,220,248);
+    font-size: 14px;
+    font-weight: bolder;
+    color: #FAFAFA;
+    line-height: 18px;
+    height:35px;
+    width: 268px;
+    border: 1pt solid #dbdbdb;
+    border-radius: 4px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.or {
+    color: #8e8e8e;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.line {
+    align-self: center;
+    background-color: #dbdbdb;
+    height: 1px;
+    width:107px
+}
+
+.alt_login {
+    margin: 0 auto;
+    width: 268px;
+    height: 68px;
+    margin-top: 10px;
+}
+
+.githubbutton {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    color: #262626;
+    gap: 5px;
+    width: 150px;
+    padding: 12px;
+}
+
+#github {
+    width: 20px;
+    height: 20px;
+}
+
+.forgot {
+    text-align: center;
+    font-size: 12px;
+}
+
+.sign_up_container {
+    background: #FFFFFF;
+    color: #262626;
+    height: 63px;
+    width:350px;
+    margin: 10px 0 0 40px;
+    border: 1pt solid #dbdbdb;
+    text-align: center;
+    line-height: 63px;}
+
+.sign_up_container a {
+    color: #0095f6;
+}
+
+.get_app {
+    color: #262626;
+    width:350px;
+    margin: 15px 0 0 40px;
+    text-align: center;
+    }
+
+#appstore {
+    height:40px;
+    width:136px;
+}
+
+
+#gplay{
+    height:40px;
+    width:134.281px;
+} 
+
+footer {
+    color: #8e8e8e;
+    position:fixed;
+    bottom: 0;
+    padding-bottom: 70px;
+    padding-top: 70px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer a {
+    color: #8e8e8e;
+    padding: 0 10px 0 0;
+}
+
+#lang {
+    color: #8e8e8e;
+    border: none;
+    width: 85px;
+}
+
+.last {
+    display: flex;
+    gap: 10px;
+}
+
+.hidden {display: none;}
+
+
+@media (max-width: 780px){
+    .container {
+        display: none;
+    }
+    .img_container { 
+        display: none;
+    }   
+    footer {
+        display: none;
+    }
+    .hidden {
+        width: 100%;
+        display: flex;
+        background: #FAFAFA;
+        flex-direction: column;
+        height: 100%;
+        align-items: center;
+        row-gap: 10px;
+    }
+    .mobile1 {
+        margin-top: 10px
+    }
+    #lang2 {
+        color: #8e8e8e;
+        border: none;
+        width: 85px;
+    }
+    .mobile2 {margin: 150px 0 0 0;
+    }
+
+    .mobile3 {
+        text-align: center;
+        padding: 10px;
+        font-size: 16px;
+        font-weight: 100;
+    }
+    
+    .mobile3 a {
+        font-size: 14px;
+        font-weight: 500;
+        color: #0095f6;
+    }
+    .mobile4 {
+        position: fixed;
+        bottom: 0;
+        text-align: center
+        ;
+    }
+   
+    .button2 {background: #0095F6;
+        font-size: 14px;
+        font-weight: 700;
+        color: #FAFAFA;
+        line-height: 45px;
+        height:45px;
+        width: 350px;
+        border: 1pt solid #dbdbdb;
+        border-radius: 4px;}
+    .space {
+        margin: 15px 0 0 0 ;
+    }
+    .from {font-size: 10px;}
+}
