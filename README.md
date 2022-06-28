@@ -6,6 +6,6 @@
 
 
 <hr>
-<h3> Welcome to Devigram:<h3> <img align="center" src="https://github.com/beofrid/Devgram/blob/master/assets/img/flavicon.png"></a>
-<a href="https://beofrid.github.io/Devgram/" target="_blank">
+<h3> Welcome to Devgram:<h3> <img align="center" src="https://github.com/beofrid/Devgram/blob/master/assets/img/flavicon.png"></a>
+<a href="https://beofrid.github.io/Devgram/" >
 https://beofrid.github.io/Devgram/ </a>
