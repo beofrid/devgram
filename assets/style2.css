@@ -190,6 +190,8 @@ footer {
         flex-direction: column;
         height: 100%;
         align-items: center;
+        overflow: scroll;
+        -webkit-overflow-scrolling: touch;
     }
     .mobile1 {display: flex;
         background: #FAFAFA;
