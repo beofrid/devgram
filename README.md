@@ -7,5 +7,5 @@
 
 <hr>
 <h3> Welcome to Devigram:<h3> <img align="center" src="https://github.com/beofrid/Devgram/blob/master/assets/img/flavicon.png"></a>
-<a target="_blank" href="https://beofrid.github.io/Devgram/">
-https://beofrid.github.io/Devgram/
+<a href="https://beofrid.github.io/Devgram/" target="_blank">
+https://beofrid.github.io/Devgram/ </a>
