@@ -1,5 +1,5 @@
 ### Interface-challenge
-#### Page temporarily unavailable due to removal attempt of Google 'safe alert'.
+#### Page temporarily unavailable due to removal attempt of Google 'security alert'.
 #### Página temporariamente indisponível devido à tentativa de remoção do 'alerta de segurança' do Google.
 
 #### <a href="https://www.dio.me/">DIO</a>: Instagram Interface Challenge.
