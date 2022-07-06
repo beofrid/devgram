@@ -1,6 +1,7 @@
 ### Interface-challenge
-#### Page temporarily unavailable due to removal attempt of Google 'security alert'.
-#### Página temporariamente indisponível devido à tentativa de remoção do 'alerta de segurança' do Google.
+Devgram first interface (before Google's "security error" alert)
+<img src="https://raw.githubusercontent.com/beofrid/devgram/master/assets/img/BeforePhisingAlert.png">
+
 
 #### <a href="https://www.dio.me/">DIO</a>: Instagram Interface Challenge.
 Project link at the bottom of the page./Link do projeto na parte de baixo da página.
@@ -39,7 +40,10 @@ Do you have questions, English corrections or code corrections? Please, contact 
 
 <hr>
 <h3> Welcome to Devgram:<h3> <img align="center" src="https://github.com/beofrid/Devgram/blob/master/assets/img/flavicon.png"></a>
-<a href="https://beofrid.github.io/Devgram/" >
+<a href="https://beofrid.github.io/devgram/" >
 https://beofrid.github.io/Devgram/ </a>
+
+
+
   
 
