@@ -41,7 +41,7 @@ Do you have questions, English corrections or code corrections? Please, contact 
 <hr>
 <h3> Welcome to Devgram:<h3> <img align="center" src="https://github.com/beofrid/Devgram/blob/master/assets/img/flavicon.png"></a>
 <a href="https://beofrid.github.io/devgram/" >
-https://beofrid.github.io/Devgram/ </a>
+https://beofrid.github.io/devgram/ </a>
 
 
 
