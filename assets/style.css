@@ -22,6 +22,10 @@ section {
     margin-top: 6%;
 }
 
+span {
+    font-weight: bolder;
+}
+
 .imgcont { 
     opacity: 0;
     position: absolute;
